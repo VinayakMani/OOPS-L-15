@@ -1,4 +1,4 @@
-// CPP program to illustrate concept of Containership
+//program to illustrate concept of Containership
   
 #include <iostream>
 using namespace std;
